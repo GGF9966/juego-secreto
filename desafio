@@ -1,0 +1,6 @@
+let listaGenerica = [];
+
+
+let lenguajesDeProgramacion = [javaScript, C, C++, Kotlin, Python];
+
+lenguajesDeProgramacion.push('Java', 'Ruby', 'GoLang');
